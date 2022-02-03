@@ -15,7 +15,7 @@
 </p>   
 
 
-<h2 align="center"><img src="https://github.com/mssaran/mssaran/blob/main/2nmZ.gif" width="50"></h2>
+<h2 align="center"><img src="https://github.com/mssaran/mssaran/blob/main/2nmZ.gif" width="100"></h2>
 
 <h2 align="center">Tech Stack</h2>
 
