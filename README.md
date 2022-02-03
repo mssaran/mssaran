@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
+<img src="https://github.com/mssaran/mssaran/blob/main/banner.png" style="max-width: 100%;">
 
 
 
-
-
+<!-- 
 **mssaran/mssaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ -->
