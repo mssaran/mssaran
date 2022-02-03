@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://github.com/mssaran/mssaran/blob/main/banner.png" style="max-width: 100%;">
-
+<marquee><img src="https://github.com/mssaran/mssaran/blob/main/Banner.png" style="max-width: 100%;"></marquee>
 
 
 <!-- 
