@@ -2,7 +2,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=mssaran)                           
-                             
+                             ![](https://komarev.com/ghpvc/?username=mssaran&label=PROFILE+VIEWS)
 <!-- 
 **mssaran/mssaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
