@@ -1,6 +1,5 @@
 <img src="https://github.com/mssaran/mssaran/blob/main/Banner.png" style="max-width: 100%;">
 
-![](https://komarev.com/ghpvc/?username=mssaran&color=yellow)
 
 
 <!-- 
