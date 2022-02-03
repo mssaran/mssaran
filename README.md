@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <marquee><img src="https://github.com/mssaran/mssaran/blob/main/Banner.png" style="max-width: 100%;"></marquee>
 
 
