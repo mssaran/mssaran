@@ -1,6 +1,14 @@
 <img src="https://github.com/mssaran/mssaran/blob/main/Banner.png" style="max-width: 100%;">
 
 
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/mssaran/mssaran"/> 
+ <img src="https://badges.pufler.dev/years/mssaran"/> 
+ <img src="https://badges.pufler.dev/repos/mssaran"/>
+ <img src="https://badges.pufler.dev/commits/monthly/mssaran" />
+
+</p>
 
 <!-- 
 **mssaran/mssaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
