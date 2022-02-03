@@ -10,6 +10,10 @@
 
 </p>
 
+ <p align="center"><i>
+  I'm a Final year student pursuing BTech in Computer Science with Software Modeling and DevOps Specialization 🎓 from KL University 🏛. I'm an enthusiastic learner,where i bound and commited to improve and enhance my learning and skills as day passes.I always thrives to learn something new by exploring things💡.Apart from this I myself like to call as a Dendrophile,always Agressive towards Nature destroyers.</i>
+</p>   
+
 <!-- 
 **mssaran/mssaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
