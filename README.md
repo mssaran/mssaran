@@ -15,6 +15,8 @@
 </p>   
 
 
+<h2 align="center">Tech Stuff<img src="https://github.com/mssaran/mssaran/blob/main/2nmZ.gif" width="50"></h2>
+
 
 <!-- 
 **mssaran/mssaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
