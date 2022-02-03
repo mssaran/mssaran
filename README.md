@@ -38,13 +38,15 @@
 
 
 <h2 align="center">Catch me Up on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
+<p align="center">
 <a href="mailto: saranms.learn@gmail.com">
  <img src="https://img.shields.io/badge/-saranms-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saranms.learn@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/ms-saran-s47/">
  <img src="https://img.shields.io/badge/-SaranMs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ms-saran-s47/"/>
 </a>
+ 
+ </p>
 
 <!-- 
 **mssaran/mssaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
