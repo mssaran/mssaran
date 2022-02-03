@@ -1,6 +1,7 @@
-<marquee><img src="https://github.com/mssaran/mssaran/blob/main/Banner.png" style="max-width: 100%;"></marquee>
+<img src="https://github.com/mssaran/mssaran/blob/main/Banner.png" style="max-width: 100%;">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mssaran&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+                             Hello
+                             
 <!-- 
 **mssaran/mssaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
