@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
-[![MasterHead](https://www.google.com/search?q=image&sxsrf=APq-WBtDYr3m41MKJz4hLvlzK2i865MWmw:1643879788114&tbm=isch&source=iu&ictx=1&vet=1&fir=gxFxsvFBmxeZ9M%252C0JWe7yDOKrVFAM%252C_%253BtTplitM2kjOQtM%252C-UStXW0dQEx4SM%252C_%253B2DNOEjVi-CBaYM%252CAOz9-XMe1ixZJM%252C_%253BMOAYgJU89sFKnM%252CygIoihldBPn-LM%252C_%253Bz4_uU0QB2pe-SM%252C7SySw5zvOgPYAM%252C_%253BA4G7eW2zetaunM%252Cl3NoP295SYrYvM%252C_%253BqXynBYpZpHkhWM%252C4O2GvGuD-Cf09M%252C_%253BbDjlNH-20Ukm8M%252CG9GbNX6HcZ2O_M%252C_%253BxE4uU8uoFN00aM%252CpEU77tdqT8sGCM%252C_%253Bl5RllJHFLw5NyM%252CibTdn4unYxO9nM%252C_%253B29-1h5KEZWSYuM%252CyS0YH8JykPqCuM%252C_%253BLK6S_eMkLDVwQM%252CB51x0PBR9KNzvM%252C_%253BgOUAFhrbQ2nYQM%252COXvyXJop1qSGqM%252C_%253B1Y5Fex7Bw6VMkM%252CYAMnwpTKFlPEWM%252C_&usg=AI4_-kRvSa0DHPHQ9FuX6yJu6XYDPQtj2g&sa=X&ved=2ahUKEwj38Mq2meP1AhXpSGwGHbYbD98Q9QF6BAgXEAE#imgrc=MOAYgJU89sFKnM)](https://github.com/mssaran)
 
 
 
 
-<!--
+
+
 **mssaran/mssaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
