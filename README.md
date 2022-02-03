@@ -1,6 +1,6 @@
 <marquee><img src="https://github.com/mssaran/mssaran/blob/main/Banner.png" style="max-width: 100%;"></marquee>
 
-  
+<img align="right" alt="Coding" width="400" src="https://github.com/mssaran/mssaran/blob/main/devops.jpg">
 
 <!-- 
 **mssaran/mssaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
