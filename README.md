@@ -49,9 +49,7 @@
  </p>
 
 
-<p>
- <marquee>Certifications</marquee>
-</p>
+
  
 
 
